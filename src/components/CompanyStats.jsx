@@ -10,7 +10,7 @@ const CompanyStats = () => {
   const statsData = [
     { id: 1, icon: <BsTools />, value: 6, suffix: "+", title: "Year of Jurney" },
     { id: 2, icon: <BsPeopleFill />, value: 109, suffix: "+", title: "Projects Completed" },
-    { id: 3, icon: <BsEmojiSmileFill />, value: 6, suffix: "+", title: "Happy Clients" }
+    { id: 3, icon: <BsEmojiSmileFill />, value: 5, suffix: "+", title: "Happy Clients" }
   ];
 
   useEffect(() => {
